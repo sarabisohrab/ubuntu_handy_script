@@ -1,4 +1,4 @@
-# ubuntu_handy_script
+# Ubuntu Handy Script
 Some handy scripts to work in linux
 
 ## simply_clean_junks_ubuntu.sh
