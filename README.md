@@ -1,6 +1,8 @@
 # Ubuntu Handy Script
 Some handy scripts to work in linux
 
+<hr>
+
 ## simply_clean_junks_ubuntu.sh
 **It shall run by sudo** <br />
 This script will do some cleaning commands that simply removes some absolute junks from your linux system.
